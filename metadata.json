@@ -1,0 +1,7 @@
+{
+  "name": "Sabedoria Quântica Chatbot",
+  "description": "An interactive chatbot specializing in Quantum Physics, Neuroscience, and the Human Mind, designed to assist users of the Sabedoria Quântica website. It provides answers, encourages site exploration, and promotes newsletter subscriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
